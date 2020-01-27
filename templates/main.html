@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GetServices</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron">
+  <h1>Hi there! </h1>
+  <p>Here are you our available regions please refer to drop down menu for selecting what you are wanting for...</p>
+</div>
+
+<form onsubmit="return validate(this)" method="POST" action="/getstations">
+  <select name="selected" class="form-control form-control-lg" style="width:25%;">
+{% for d in data %}
+    <option value= {{ d }} >{{ data[d] }}</option>
+      {%print(d)%}
+{% endfor %}
+</select>
+    <br>
+  <button type="submit" class="btn btn-primary" id = "Predict">Locate Offices</button>
+</form>
+
+</body>
+</html>

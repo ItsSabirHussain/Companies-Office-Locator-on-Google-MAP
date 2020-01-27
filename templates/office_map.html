@@ -1,0 +1,73 @@
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBqRVe8N1r2OxV7PGiw9hMSGnbO3D3HBQg"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>My Google Map</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  <style>
+    #map{
+      height:70%;
+      width:100%;
+    }
+  </style>
+</head>
+<body>
+  <div class="jumbotron">
+  <h1>MAP location of stations<br></h1>
+  <p>The map below is showing the location of the stations again the region you have selected.<br>If you want contact information click on the marker.<br>For send email click on the email address on the info window. Thanks!</p>
+</div>
+  <div id="map"></div>
+  <script>
+    function initMap(){
+      var options = {
+        zoom:5,
+        center:{lat:{{data[0]['lat']}},lng:{{data[0]['lon']}}}
+      }
+      var map = new google.maps.Map(document.getElementById('map'), options);
+      google.maps.event.addListener(map, 'click', function(event){
+        addMarker({coords:event.latLng});
+      });
+      var markers = [
+      {% for item in data %}
+        {
+          id:'{{item['id']}}',
+          coords:{lat:{{item['lat']}},lng:{{item['lon']}}},
+          iconImage:'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png',
+          content:'<h1>Station: {{item['Station']}}</h1><br><h3>Address: {{item['Address']}}</h3><br><h3>Phone: {{item['Phone']}}</h3><br><h3>Email: <a href="mailto:{{item['Email']}}">{{item['Email']}}</h3></a>'
+        },
+       {%endfor%}
+      ];
+      for(var i = 0;i < markers.length;i++){
+        addMarker(markers[i]);
+      }
+      function addMarker(props){
+        var marker = new google.maps.Marker({
+          position:props.coords,
+          map:map,
+          icon: 'http://chart.apis.google.com/chart?chst=d_map_pin_letter&chld='+props.id+'|FE6256|000000'
+        });
+        if(props.content){
+          var infoWindow = new google.maps.InfoWindow({
+            content:props.content
+          });
+
+          marker.addListener('click', function(){
+            infoWindow.open(map, marker);
+          });
+        }
+      }
+    }
+  </script>
+  <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBqRVe8N1r2OxV7PGiw9hMSGnbO3D3HBQg&callback=initMap">
+    </script>
+</body>
+</html>

@@ -1,0 +1,240 @@
+RegionID,Station Number,Station Name,Station Type,Street Address,Phone Number,Fax Number,E-Mail,Lat,Lon
+1,1,Kemp Place Fire Station,Permanent,21 Martin Street Fortitude Valley 4006,07 3362 9923,,enquiry@kempplace.qfes.gov.au,-27.46061736,153.0357795
+1,2,Roma Street Fire Station,Permanent,279 Upper Roma St Brisbane City 4101,07 3247 5538,,enquiry@romastreet.qfes.gov.au,-27.46581599,153.0153914
+1,3,Annerley Fire Station,Permanent,346 Ipswich Rd Annerley 4103,07 3247 5210,,enquiry@annerley.qfes.gov.au,-27.50439112,153.0347521
+1,4,Windsor Fire Station,Permanent,7 Truro St Windsor 4030,07 3247 5564,,enquiry@windsor.qfes.gov.au,-27.42771528,153.0331964
+1,5,Ashgrove Fire Station,Permanent,515 Waterworks Rd Ashgrove 4060,07 3366 0258,,enquiry@ashgrove.qfes.gov.au,-27.44789239,152.9760243
+1,6,Redland Bay Fire Station,Permanent,33 Gordon Road Redland Bay 4165,07 3829 1403,,enquiry@redlandbay.qfes.gov.au,-27.61089735,153.2890479
+1,7,Cannon Hill Fire Station,Permanent,24 Corporate Dr Cannon Hill 4170,07 3909 4346,,enquiry@cannonhill.qfes.gov.au,-27.46765772,153.0913217
+1,8,Enoggera Fire Station,Permanent,236 Lloyd St Enoggera 4051,07 3247 4721,,enquiry@enoggera.qfes.gov.au,-27.42545741,152.9888173
+1,9,Camp Hill Fire Station,Permanent,112 Ferguson Rd Camp Hill 4152,07 3395 4790,,enquiry@camphill.qfes.gov.au,-27.48806998,153.0785562
+1,10,Acacia Ridge Fire Station,Permanent,127 Bradman St Acacia Ridge 4110,07 3344 4329,,enquiry@acaciaridge.qfes.gov.au,-27.58115886,153.0385326
+1,11,Hendra Fire Station,Permanent,451 Nudgee Rd Hendra 4011,07 3008 9400,,enquiry@hendra.qfes.gov.au,-27.41524909,153.0748563
+1,12,Taringa Fire Station,Permanent,26 Whitmore St Taringa 4068,07 3362 9994,,enquiry@taringa.qfes.gov.au,,
+1,13,Rocklea Fire Station,Permanent,93 Medway St Rocklea 4106,07 3362 9992,,enquiry@rocklea.qfes.gov.au,-27.54148907,153.0070191
+1,14,Sandgate Fire Station,Permanent,124 Brighton Rd Sandgate 4017,07 3869 0473,,enquiry@sandgate.qfes.gov.au,-27.31650128,153.0664122
+1,15,Wynnum Fire Station,Permanent,2006 Wynnum Rd Wynnum West 4178,07 3396 3297,,enquiry@wynnum.qfes.gov.au,-27.4562181,153.1533758
+1,16,Chermside Fire Station,Permanent,526 Hamilton Rd Chermside 4032,07 3247 4449,,enquiry@chermside.qfes.gov.au,-27.38516275,153.0235939
+1,17,Wishart Fire Station,Permanent,203 Dawson Rd Wishart 4122,07 3247 5551,,enquiry@wishart.qfes.gov.au,-27.55507713,153.0906699
+1,18,Durack Fire Station,Permanent,506 Blunder Road Durack 4077,07 3710 1277,,enquiry@durack.qfes.gov.au,-27.58720545,152.9855777
+1,19,Pullenvale Fire Station,Permanent,6 Pullenvale Rd Pullenvale 4069,07 3878 1052,,enquiry@pullenvale.qfes.gov.au,-27.52141927,152.921518
+1,20,Mount Ommaney Fire Station,Permanent,238 Arrabri Av Mount Ommaney 4074,07 3033 8600,,enquiry@mountommaney.qfes.gov.au,-27.54806964,152.9364322
+1,21,Taigum Fire Station,Permanent,263 Beams Road Taigum 4018,07 3865 3605,,enquiry@taigum.qfes.gov.au,-27.35100556,153.0465131
+1,23,Arana Hills Fire Station,Permanent,1145 South Pine Rd Arana Hills 4054,07 3851 0563,,enquiry@aranahills.qfes.gov.au,-27.38969775,152.9625168
+1,24,Eatons Hill Fire Station,Permanent,3 Eatons Crossing Road Warner 4037,07 3264 5819,,enquiry@eatonshill.qfes.gov.au,-27.33647763,152.9603611
+1,25,Petrie Fire Station,Permanent,4-6 Young St Petrie 4502,07 3897 7804,,enquiry@petrie.qfes.gov.au,-27.26871557,152.9787205
+1,26,Kippa-Ring Fire Station,Permanent,66 Boardman Road Kippa Ring 4021,07 3384 2900,,enquiry@kippa-ring.qfes.gov.au,,
+1,27,Deception Bay Fire Station,Auxiliary,26 Endeavour St Deception Bay 4508,07 3888 7644,,enquiry@deceptionbay.qfes.gov.au,-27.18452766,153.0268065
+1,28,Caboolture Fire Station,Permanent/Auxiliary,54 Lower King St Caboolture 4510,07 5498 3347,,enquiry@caboolture.qfes.gov.au,-27.0858964,152.960892
+1,29,Bribie Island Fire Station,Permanent/Auxiliary,10-12 Faraday St Bribie Island 4507,07 3408 8932,,enquiry@bribieisland.qfes.gov.au,-27.06307369,153.1541271
+1,30,Capalaba Fire Station,Permanent,223 Mt Cotton Rd Capalaba 4157,07 3131 1002,,enquiry@capalaba.qfes.gov.au,-27.54266717,153.1895355
+1,31,Burpengary Fire Station,Permanent,185 Pitt Road Burpengary 4505,07 3888 3599,,enquiry@burpengary.qfes.gov.au,-27.16963159,152.9769397
+1,47,Cleveland Fire Station,Permanent,49 Wellington St Cleveland 4163,07 3821 2079,,enquiry@cleveland.qfes.gov.au,-27.52901312,153.2551348
+1,60,Coochiemudlo Island Fire Station,Auxiliary,45 Elizabeth St Coochiemudlo Island 4184,07 3383 1142,,enquiry@coochiemudloisland.qfes.gov.au,-27.56917599,153.3334904
+1,61,Dunwich Fire Station,Auxiliary,29 Mitchell Cr Dunwich 4183,07 3383 1142,,enquiry@dunwich.qfes.gov.au,-27.49752858,153.4087166
+1,62,Amity Point Fire Station,Auxiliary,9 Hexton St Amity Point 4183,07 3383 1142,,enquiry@amitypoint.qfes.gov.au,-27.3984497,153.4422231
+1,63,Point Lookout Fire Station,Auxiliary,85 East Coast Road Point Lookout 4183,07 3383 1142,,enquiry@pointlookout.qfes.gov.au,-27.42645761,153.5199925
+1,81,Woodford Fire Station,Auxiliary,2366 D'Aguilar Highway Woodford 4514,07 3888 7644,,enquiry@woodford.qfes.gov.au,-26.96345386,152.7803739
+1,82,Kilcoy Fire Station,Auxiliary,17 Mccauley St Kilcoy 4515,07 3888 7644,,enquiry@kilcoy.qfes.gov.au,-26.94127791,152.5650043
+2,83,Dayboro Fire Station,Auxiliary,27 Bradley St Dayboro 4521,07 3285 7049,,enquiry@dayboro.qfes.gov.au,-27.19860518,152.823019
+2,12,Mackay Fire Station,Permanent,90 Sydney St Mackay 4740,07 4944 8000,07 4957 5118,enquiry@mackay.qfes.gov.au,-21.14582952,149.1862262
+2,14,North Mackay Fire Station,Permanent/Auxiliary,49 Beaconsfield Rd North Mackay 4740,07 4965 6671,07 4965 6670,enquiry@northmackay.qfes.gov.au,-21.09971904,149.166081
+2,17,Walkerston Fire Station,Auxiliary,21 Dutton St Walkerston 4751,07 4965 6623,,enquiry@walkerston.qfes.gov.au,-21.16109373,149.0685453
+2,20,Dysart Fire Station,Auxiliary,27 Queen Elizabeth Dr Dysart 4745,07 4965 6621,,enquiry@dysart.qfes.gov.au,-22.5899565,148.3482142
+2,21,Glenden Fire Station,Auxiliary,6 Bell Pl Glenden 4743,07 4965 6621,,enquiry@glenden.qfes.gov.au,-21.35791931,148.1186018
+2,23,Moranbah Fire Station,Auxiliary,13 Griffin St Moranbah 4744,07 4965 6621,,enquiry@moranbah.qfes.gov.au,-22.00070175,148.0451974
+2,26,Sarina Fire Station,Auxiliary,12 Anzac St Sarina 4737,07 4965 6621,,enquiry@sarina.qfes.gov.au,-21.42073752,149.2140672
+2,28,Airlie Beach Fire Station,Permanent/Auxiliary,2495 Shute Harbour Rd Airlie Beach 4802,07 4946 6442,07 4946 7097,enquiry@airliebeach.qfes.gov.au,-20.27804421,148.7274619
+2,29,Proserpine Fire Station,Auxiliary,102 Main St Proserpine 4800,07 4965 6621,,enquiry@proserpine.qfes.gov.au,-20.40246705,148.5840727
+2,32,Emu Park Fire Station,Permanent/Auxiliary,87 Hartley St Emu Park 4702,07 4939 6011,07 4938 7283,enquiry@emupark.qfes.gov.au,-23.26646516,150.8200893
+2,33,Mount Morgan Fire Station,Permanent/Auxiliary,32 Morgan St Mount Morgan 4714,07 4938 1005,07 4938 1511,enquiry@mountmorgan.qfes.gov.au,-23.64575263,150.3865882
+2,34,North Rockhampton Fire Station,Permanent,753 Yaamba Road Parkhurst 4701,07 4936 4281,07 4936 4283,enquiry@northrockhampton.qfes.gov.au,-23.31450224,150.5158143
+2,35,Rockhampton Fire Station,Permanent,113 Kent St Rockhampton 4700,07 4930 0500,,enquiry@rockhampton.qfes.gov.au,-23.37949558,150.5082426
+2,37,Yeppoon Fire Station,Permanent/Auxiliary,16 Mcbean St Yeppoon 4703,07 4939 1608,07 4939 2324,enquiry@yeppoon.qfes.gov.au,-23.1406659,150.737121
+2,38,Gracemere Fire Station,Auxiliary,34 Bland Street Gracemere 4702,07 4927 1277,,enquiry@gracemere.qfes.gov.au,-23.44399771,150.4561656
+2,40,Agnes Water Fire Station,Auxiliary,Lot 1 Round Hill Road Agnes Water 4677,07 4899 2210,,enquiry@agneswater.qfes.gov.au,-24.21997325,151.8932958
+2,41,Biloela Fire Station,Auxiliary,190 Callide St Biloela 4715,07 4899 2210,,enquiry@biloela.qfes.gov.au,-24.39244413,150.5039048
+2,42,Boyne Island Fire Station,Auxiliary,6 Gilbert Ct Boyne Island 4680,07 4899 2210,,enquiry@boyneisland.qfes.gov.au,-23.94690991,151.3529525
+2,43,Calliope Fire Station,Auxiliary,2 Menzies St Calliope 4680,07 4899 2210,,enquiry@calliope.qfes.gov.au,-24.00548792,151.2005219
+2,44,Gladstone Fire Station,Permanent/Auxiliary,3 Charles St West Gladstone 4680,07 4979 6589,07 4979 6559,enquiry@gladstone.qfes.gov.au,-23.85841774,151.2495536
+2,45,Miriam Vale Fire Station,Auxiliary,65 Roe St Miriam Vale 4677,07 4899 2210,,enquiry@miriamvale.qfes.gov.au,-24.32693587,151.5549479
+2,46,Baralaba Fire Station,Auxiliary,22 Stopford St Baralaba 4702,07 4899 2210,,enquiry@baralaba.qfes.gov.au,-24.18248836,149.8112691
+2,47,Moura Fire Station,Auxiliary,7 Gilchrist St Moura 4718,07 4899 2210,,enquiry@moura.qfes.gov.au,-24.57053091,149.9745901
+2,48,Thangool Fire Station,Auxiliary,25 Stanley St Thangool 4716,07 4899 2210,,enquiry@thangool.qfes.gov.au,-24.48782261,150.5745951
+2,49,Theodore Fire Station,Auxiliary,31 Fifth Av Theodore 4719,07 4899 2210,,enquiry@theodore.qfes.gov.au,-24.94791743,150.0765695
+2,61,Blackwater Fire Station,Auxiliary,2 Wilga St Blackwater 4717,07 4983 7590,,enquiry@blackwater.qfes.gov.au,-23.57864278,148.8784371
+2,62,Capella Fire Station,Auxiliary,18 Conran St Capella 4723,07 4983 7590,,enquiry@capella.qfes.gov.au,-23.08570395,148.0252305
+2,63,Clermont Fire Station,Auxiliary,31 Sirius St Clermont 4721,07 4983 7590,,enquiry@clermont.qfes.gov.au,-22.82397065,147.6415289
+2,65,Emerald Fire Station,Permanent/Auxiliary,2A Andrews Rd Emerald 4720,07 4983 7586,07 4983 7588,enquiry@emerald.qfes.gov.au,-23.54447554,148.1725094
+2,66,Middlemount Fire Station,Auxiliary,85 Centenary Dr Middlemount 4746,07 4983 7590,,enquiry@middlemount.qfes.gov.au,-22.80808595,148.7024058
+2,67,Springsure Fire Station,Auxiliary,52 Wood St Springsure 4722,07 4983 7590,,enquiry@springsure.qfes.gov.au,-24.11744873,148.0902743
+2,68,Tieri Fire Station,Auxiliary,3 Malvern Av Tieri 4709,07 4983 7590,,enquiry@tieri.qfes.gov.au,-23.0377733,148.3449086
+2,71,Alpha Fire Station,Auxiliary,16 Byron St Alpha 4724,07 4985 1624,07 4985 1016,enquiry@alpha.qfes.gov.au,-23.64926834,146.6332709
+2,72,Aramac Fire Station,Auxiliary,87 Gordon St Aramac 4726,07 4658 1005,07 4651 3170,enquiry@aramac.qfes.gov.au,-22.97166083,145.2403421
+2,73,Barcaldine Fire Station,Auxiliary,56 Ash St Barcaldine 4725,07 4658 1005,07 4651 2914,enquiry@barcaldine.qfes.gov.au,-23.55338873,145.2910697
+2,74,Blackall Fire Station,Auxiliary,125 Shamrock St Blackall 4472,07 4658 1005,07 4657 4409,enquiry@blackall.qfes.gov.au,-24.42323507,145.4624915
+2,75,Longreach Fire Station,Auxiliary,134 Eagle St Longreach 4730,07 4658 1005,07 4658 3566,enquiry@longreach.qfes.gov.au,-23.44418204,144.247923
+3,76,Winton Fire Station,Auxiliary,69 Vindex St Winton 4735,07 4658 1005,07 4657 1592,enquiry@winton.qfes.gov.au,-22.38723939,143.038337
+3,3,Thursday Island Fire Station,Permanent / Auxiliary,Neville Gully Rd Thursday Island 4875,07 4069 1275,07 4069 1955,enquiry@thursdayisland.qfes.gov.au,-10.57705631,142.2222782
+3,11,Cairns Fire Station,Permanent,237-241 Gatton St Cairns 4870,07 4232 5440,07 4031 3058,enquiry@cairns.qfes.gov.au,-16.92844046,145.7504355
+3,12,Smithfield Fire Station,Permanent,12 Lesley St Smithfield 4870,074245 9300,,enquiry@smithfield.qfes.gov.au,-16.83272456,145.6946642
+3,13,Cairns South Fire Station,Permanent,80-84 Robert Rd Cairns South 4869,07 4252 7200,,enquiry@cairnssouth.qfes.gov.au,-17.00350541,145.7352115
+3,14,Gordonvale Fire Station,Auxiliary,27 Gilles Range Road Gordonvale 4865,07 4056 4800,,enquiry@gordonvale.qfes.gov.au,-17.10685693,145.7750024
+3,15,Kuranda Fire Station,Auxiliary,10 Coondoo St Kuranda 4872,07 4232 5470,,enquiry@kuranda.qfes.gov.au,-16.82069458,145.634291
+3,16,Port Douglas Fire Station,Auxiliary,5 Port Douglas Rd Port Douglas 4871,07 4232 5470,07 4099 5783,enquiry@portdouglas.qfes.gov.au,-16.49908489,145.4631462
+3,17,Mossman Fire Station,Auxiliary,16 Theresa St Mossman 4873,07 4232 5470,,enquiry@mossman.qfes.gov.au,-16.48519904,145.3768427
+3,21,Babinda Fire Station,Auxiliary,44 Eastwood St Babinda 4861,07 4061 0600,,enquiry@babinda.qfes.gov.au,-17.34477595,145.9214542
+3,22,Bramston Beach Fire Station,Auxiliary,39 Evans Rd Bramston Beach 4871,07 4061 0600,,enquiry@bramstonbeach.qfes.gov.au,-17.35623913,146.0248074
+3,23,Cardwell Fire Station,Auxiliary,2 Panos St Cardwell 4849,07 4061 0600,,enquiry@cardwell.qfes.gov.au,-18.26668613,146.0264209
+3,24,El Arish Fire Station,Auxiliary,7 Ryrie St El Arish 4855,07 4061 0600,,enquiry@elarish.qfes.gov.au,-17.80559601,146.0037569
+3,25,Innisfail Fire Station,Permanent / Auxiliary,48 Fitzgerald Esplanade Innisfail 4860,07 4063 4011,,enquiry@innisfail.qfes.gov.au,-17.52162878,146.030865
+3,26,Kurrimine Beach Fire Station,Auxiliary,Murdering Pt Rd Kurrimine Beach 4871,07 4061 0600,,enquiry@kurriminebeach.qfes.gov.au,-17.77339799,146.1014099
+3,27,Mission Beach Fire Station,Auxiliary,4 Webb Rd Mission Beach 4852,07 4061 0600,,enquiry@missionbeach.qfes.gov.au,-17.904753,146.0921726
+3,28,Tully Fire Station,Auxiliary,Lot 600 Murray St Tully 4854,07 4061 0600,,enquiry@tully.qfes.gov.au,-17.93320229,145.9283888
+3,31,Atherton Fire Station,Permanent / Auxiliary,17 Vernon St Atherton 4883,07 4089 6820,,enquiry@atherton.qfes.gov.au,-17.26752095,145.4777349
+3,32,Herberton Fire Station,Auxiliary,43 Grace St Herberton 4887,07 4091 9290,,enquiry@herberton.qfes.gov.au,-17.38313312,145.3845957
+3,33,Malanda Fire Station,Auxiliary,23 James St Malanda 4885,07 4091 9290,,enquiry@malanda.qfes.gov.au,-17.35302162,145.5954027
+3,34,Millaa Millaa Fire Station,Auxiliary,1 Maple St Millaa Millaa 4886,07 4091 9290,,enquiry@millaamillaa.qfes.gov.au,-17.51186716,145.6128904
+3,35,Ravenshoe Fire Station,Auxiliary,16 Theta St Ravenshoe 4888,07 4091 9290,,enquiry@ravenshoe.qfes.gov.au,-17.60963594,145.4869307
+3,36,Yungaburra Fire Station,Auxiliary,39 Eacham Rd Yungaburra 4884,07 4091 9290,,enquiry@yungaburra.qfes.gov.au,-17.27083221,145.5846603
+3,37,Mareeba Fire Station,Permanent / Auxiliary,20 Mammino St Mareeba 4880,07 4092 1044,07 4092 2557,enquiry@mareeba.qfes.gov.au,-17.0111626,145.4255681
+3,38,Dimbulah Fire Station,Auxiliary,1 Raleigh St Dimbulah 4872,07 4091 9290,,enquiry@dimbulah.qfes.gov.au,-17.1506457,145.1072535
+4,39,Cooktown Fire Station,Auxiliary,115 Hope St Cooktown 4895,07 4232 5470,,enquiry@cooktown.qfes.gov.au,-15.46824887,145.2514651
+4,11,Bargara Fire Station,Auxiliary,31 Tanner St Bargara 4670,07 4150 7900,,enquiry@bargara.qfes.gov.au,-24.81347979,152.4587622
+4,12,Bundaberg Fire Station,Permanent / Auxiliary,57 Wyllie St Bundaberg 4670,07 4154 6100,,enquiry@bundaberg.qfes.gov.au,-24.9013498,152.357217
+4,13,Childers Fire Station,Auxiliary,8 Brassington Dr Childers 4660,07 4150 7900,,enquiry@childers.qfes.gov.au,-25.2394573,152.2911426
+4,14,Gin Gin Fire Station,Auxiliary,24 Mulgrave St Gin Gin 4670,07 4150 7900,,enquiry@gingin.qfes.gov.au,-24.98910419,151.9546382
+4,15,Wallaville Fire Station,Auxiliary,9 Mill St Wallaville 4671,07 4150 7900,,enquiry@wallaville.qfes.gov.au,-25.07498379,151.9950366
+4,17,Burnett Heads Fire Station,Auxiliary,Brewer St Burnett Heads 4670,07 4150 7900,,enquiry@burnettheads.qfes.gov.au,-24.7637071,152.4100031
+4,18,Elliott Heads Fire Station,Auxiliary,100 Welch St Elliott Heads 4670,07 4150 7900,,enquiry@elliottheads.qfes.gov.au,-24.90887994,152.4885389
+4,21,Biggenden Fire Station,Auxiliary,22 George St Biggenden 4621,07 4140 8040,,enquiry@biggenden.qfes.gov.au,-25.51208191,152.0465141
+4,22,Eidsvold Fire Station,Auxiliary,35 Golden Spur St Eidsvold 4627,07 4140 8040,,enquiry@eidsvold.qfes.gov.au,-25.37144494,151.121659
+4,23,Gayndah Fire Station,Auxiliary,8 Pineapple St Gayndah 4625,07 4140 8040,,enquiry@gayndah.qfes.gov.au,-25.62595916,151.6093394
+4,24,Monto Fire Station,Auxiliary,15 Kelvin St Monto 4630,07 4140 8040,,enquiry@monto.qfes.gov.au,-24.86563143,151.1231105
+4,25,Mundubbera Fire Station,Auxiliary,31 Bauer St Mundubbera 4626,07 4140 8040,,enquiry@mundubbera.qfes.gov.au,-25.59073323,151.3017691
+4,26,Goomeri Fire Station,Auxiliary,4 Moore St Goomeri 4601,07 4140 8040,,enquiry@goomeri.qfes.gov.au,-26.18131205,152.0673112
+4,27,Kilkivan Fire Station,Auxiliary,22 Bligh St Kilkivan 4600,07 4140 8040,,enquiry@kilkivan.qfes.gov.au,-26.08591513,152.2407173
+4,32,Maryborough Fire Station,Permanent / Auxiliary,98 Alice St Maryborough 4650,07 4190 4801,,enquiry@maryborough.qfes.gov.au,-25.54027698,152.6984427
+4,34,Rainbow Beach Fire Station,Auxiliary,25 Rainbow Beach Road Rainbow Beach 4581,07 4190 4831,,enquiry@rainbowbeach.qfes.gov.au,-25.9054091,153.0907151
+4,35,Tin Can Bay Fire Station,Auxiliary,Lot 1 Snapper Creek Rd Tin Can Bay 4580,07 4190 4831,,enquiry@tincanbay.qfes.gov.au,-25.92627134,152.9953663
+4,36,Torquay Fire Station,Permanent / Auxiliary,227 Torquay Tce Torquay 4655,07 4338 5400,,enquiry@torquay.qfes.gov.au,-25.28714598,152.865613
+4,37,Craignish Fire Station,Auxiliary,67 Castles Road Craignish 4655,07 4190 4831,,enquiry@craignish.qfes.gov.au,-25.28190987,152.7268288
+4,51,Gympie Fire Station,Permanent / Auxiliary,6 Bligh St Gympie 4570,07 5480 5443,,enquiry@gympie.qfes.gov.au,-26.19191403,152.6681934
+4,52,Imbil Fire Station,Auxiliary,113 Yabba Rd Imbil 4570,07 5480 5465,,enquiry@imbil.qfes.gov.au,-26.45910187,152.6765032
+4,53,Cooran Fire Station,Auxiliary,50 Queen St Cooran 4569,07 5480 5465,,enquiry@cooran.qfes.gov.au,-26.3366388,152.8336547
+4,54,Cooroy Fire Station,Auxiliary,16 Myall St Cooroy 4563,07 5480 5465,,enquiry@cooroy.qfes.gov.au,-26.42036912,152.9107759
+4,55,Pomona Fire Station,Auxiliary,9-13 Reserve St Pomona 4568,07 5480 5465,,enquiry@pomona.qfes.gov.au,-26.36533214,152.8546489
+4,56,Noosa Heads Fire Station,Permanent,2 Langura St Noosa Heads 4567,07 5473 8484,,enquiry@noosaheads.qfes.gov.au,-26.40805568,153.0904563
+4,57,Tewantin Fire Station,Auxiliary,2 Hilton Esp Tewantin 4565,07 5480 5465,,enquiry@tewantin.qfes.gov.au,-26.39632269,153.0438391
+4,60,Wondai Fire Station,Auxiliary,82 Mackenzie St Wondai 4606,07 4172 8701,,enquiry@wondai.qfes.gov.au,-26.31925329,151.8730166
+4,61,Blackbutt Fire Station,Auxiliary,72 Hart St Blackbutt 4306,07 4172 8701,,enquiry@blackbutt.qfes.gov.au,-26.88490272,152.1008496
+4,62,Kingaroy Fire Station,Permanent / Auxiliary,25 Edward Street Kingaroy 4610,07 4172 8701,,enquiry@kingaroy.qfes.gov.au,-26.53696788,151.8394319
+4,63,Kumbia Fire Station,Auxiliary,16 Gordon St Kumbia 4610,07 4172 8701,,enquiry@kumbia.qfes.gov.au,-26.69170457,151.6518465
+4,64,Nanango Fire Station,Auxiliary,14 Alfred St Nanango 4615,07 4172 8701,,enquiry@nanango.qfes.gov.au,-26.67249376,151.9986184
+4,65,Wooroolin Fire Station,Auxiliary,45 Alexander St Wooroolin 4608,07 4172 8701,,enquiry@wooroolin.qfes.gov.au,-26.40983763,151.8152368
+4,66,Yarraman Fire Station,Auxiliary,12 Browne St Yarraman 4614,07 4172 8701,,enquiry@yarraman.qfes.gov.au,-26.84151205,151.9827282
+4,67,Cherbourg Fire Station,Auxiliary,1 Fisher St Cherbourg 4605,07 4172 8701,,enquiry@cherbourg.qfes.gov.au,-26.28907056,151.9567413
+4,68,Murgon Fire Station,Auxiliary,62 Gore St Murgon 4605,07 4172 8701,,enquiry@murgon.qfes.gov.au,-26.24318548,151.940546
+4,69,Proston Fire Station,Auxiliary,14 Collingwood St Proston 4613,07 4172 8701,,enquiry@proston.qfes.gov.au,-26.16466456,151.6030535
+4,71,Buderim Fire Station,Auxiliary,8 Lindsay Rd Buderim 4556,07 5479 7883,,enquiry@buderim.qfes.gov.au,-26.68498665,153.0507457
+4,72,Coolum Fire Station,Auxiliary,19 Russell Street Coolum 4573,07 5479 7883,,enquiry@coolum.qfes.gov.au,-26.52885362,153.0871345
+4,73,Nambour Fire Station,Permanent / Auxiliary,678 Bli Bli Rd Nambour 4560,07 5374 8400,,enquiry@nambour.qfes.gov.au,-26.61687842,152.9720402
+4,74,Maroochydore Fire Station,Permanent,Claremont St Maroochydore 4556,07 5479 7880,,enquiry@maroochydore.qfes.gov.au,-26.66258524,153.0651204
+4,75,Kenilworth Fire Station,Auxiliary,10 Phillip St Kenilworth 4574,07 5479 7883,,enquiry@kenilworth.qfes.gov.au,-26.59465369,152.7266843
+4,81,Beerwah Fire Station,Auxiliary,23 Beerwah Parade Beerwah 4519,07 5420 7510,,enquiry@beerwah.qfes.gov.au,-26.85524428,152.9592854
+4,82,Caloundra Fire Station,Permanent / Auxiliary,18 Industrial Caloundra West 4551,07 5420 7525,,enquiry@caloundra.qfes.gov.au,-26.79554422,153.1179602
+4,83,Kawana Fire Station,Auxiliary,194 Nicklin Way Warana 4575,07 5420 7510,,enquiry@kawana.qfes.gov.au,-26.72109237,153.1291426
+4,84,Maleny Fire Station,Auxiliary,63 Bunya St Maleny 4552,07 5420 7510,,enquiry@maleny.qfes.gov.au,-26.76526328,152.8557323
+5,85,Mooloolah Fire Station,Auxiliary,69 King Road Mooloolah 4552,07 5420 7510,,enquiry@mooloolah.qfes.gov.au,-26.76582855,152.9586496
+5,11,Woodlands Fire Station,Permanent,1 Abattoir Road Woodlands 4818,07 4774 4087,07 4774 4537,enquiry@woodlands.qfes.gov.au,-19.26469604,146.7095468
+5,12,Charters Towers Fire Station,Permanent/Auxiliary,204 Gill St Queenton 4820,07 4787 1754,07 4787 7227,enquiry@charterstowers.qfes.gov.au,-20.07729123,146.2653035
+5,13,Kirwan Fire Station,Permanent,84 Thuringowa Drive Thuringowa Central 4817,07 4773 3255,07 4723 6659,enquiry@kirwan.qfes.gov.au,-19.30938633,146.7312239
+5,14,Townsville Fire Station,Permanent,2-8 Morey St Townsville 4810,07 4729 9135,07 4729 9137,enquiry@townsville.qfes.gov.au,-19.26319589,146.8205886
+5,15,Wulguru Fire Station,Permanent,171 Stuart Dr Wulguru 4811,07 4778 4313,07 4778 1737,enquiry@wulguru.qfes.gov.au,-19.3196175,146.8143786
+5,16,Magnetic Island Fire Station,Auxiliary,54 Kelly St Nelly Bay 4819,07 4729 9153,,enquiry@magneticisland.qfes.gov.au,-19.15635761,146.8454179
+5,21,Ayr Fire Station,Permanent/Auxiliary,47-49 Soper St Ayr 4807,07 4783 2600,07 4783 4819,enquiry@ayr.qfes.gov.au,-19.57162472,147.409658
+5,22,Bowen Fire Station,Permanent/Auxiliary,44 Gordon St Bowen 4805,07 4786 1811,07 4786 5702,enquiry@bowen.qfes.gov.au,-20.01320327,148.2407011
+5,23,Collinsville Fire Station,Auxiliary,29 Garrick St Collinsville 4804,07 4729 9151,,enquiry@collinsville.qfes.gov.au,-20.55265436,147.8421299
+5,24,Giru Fire Station,Auxiliary,12 Brookes St Giru 4809,07 4729 9151,,enquiry@giru.qfes.gov.au,-19.51356573,147.1068986
+5,25,Home Hill Fire Station,Auxiliary,83 Tenth Av Home Hill 4806,07 4729 9151,,enquiry@homehill.qfes.gov.au,-19.66095759,147.4160428
+5,26,Forrest Beach Fire Station,Auxiliary,Maple St Forrest Beach 4850,07 4729 9153,,enquiry@forrestbeach.qfes.gov.au,-18.70762038,146.2972873
+5,27,Halifax Fire Station,Auxiliary,5 Rosendale St Halifax 4850,07 4729 9153,,enquiry@halifax.qfes.gov.au,-18.5844283,146.2865198
+5,28,Ingham Fire Station,Permanent/Auxiliary,15 Eleanor Street Ingham 4850,07 4761 7410,07 4761 7411,enquiry@ingham.qfes.gov.au,-18.64960109,146.1625412
+5,31,Boulia Fire Station,Auxiliary,59 Burke St Boulia 4829,07 4747 2355,,enquiry@boulia.qfes.gov.au,-22.90788177,139.9118457
+5,32,Cloncurry Fire Station,Auxiliary,44 Scarr St Cloncurry 4824,07 4747 2355,,enquiry@cloncurry.qfes.gov.au,-20.70597908,140.5059904
+5,33,Hughenden Fire Station,Auxiliary,4 Swanson St Hughenden 4821,07 4747 2355,,enquiry@hughenden.qfes.gov.au,-20.85025666,144.1936734
+5,34,Julia Creek Fire Station,Auxiliary,66 Burke St Julia Creek 4823,07 4747 2355,,enquiry@juliacreek.qfes.gov.au,-20.65761983,141.7429582
+5,35,Mount Isa Fire Station,Permanent/Auxiliary,35 West St Mount Isa City 4825,07 4747 2398,,enquiry@mountisa.qfes.gov.au,-20.72369884,139.4900419
+6,36,Richmond Fire Station,Auxiliary,43 Goldring St Richmond 4822,07 4747 2355,,enquiry@richmond.qfes.gov.au,-20.72771914,143.1407995
+6,31,Southport Fire Station,Permanent,229 Nerang Rd Southport 4215,07 5583 7531,07 5583 7530,enquiry@southport.qfes.gov.au,-27.97487062,153.3958195
+6,32,Surfers Paradise Fire Station,Permanent,2794 Gold Coast Hwy Surfers Paradise 4218,07 5583 9932,07 5583 9930,enquiry@surfersparadise.qfes.gov.au,-28.01915952,153.4288069
+6,33,Burleigh Heads Fire Station,Permanent,164 West Burleigh Rd Burleigh Heads 4220,07 5569 7733,07 5569 7730,enquiry@burleighheads.qfes.gov.au,-28.09950582,153.4432904
+6,34,Bilinga Fire Station,Permanent,240 Coolangatta Rd Bilinga 4225,07 5569 3034,07 5569 3030,enquiry@bilinga.qfes.gov.au,-28.16039553,153.5101268
+6,35,Beenleigh Fire Station,Permanent,Brigade Dr Beenleigh 4207,07 3884 8290,07 3884 8299,enquiry@beenleigh.qfes.gov.au,-27.70333087,153.2019086
+6,36,Helensvale Fire Station,Permanent,1 Discovery Dr Helensvale 4212,07 5529 4215,07 5529 4216,enquiry@helensvale.qfes.gov.au,-27.92139146,153.3372937
+6,37,Hollywell Fire Station,Permanent,318 Bayview St Hollywell 4215,07 5564 1307,07 5577 5368,enquiry@hollywell.qfes.gov.au,-27.89535851,153.3987472
+6,38,Woodridge Fire Station,Permanent,95 Kingston Rd Woodridge 4114,07 3441 8101,07 3441 8103,enquiry@woodridge.qfes.gov.au,-27.6268239,153.11694
+6,39,Nerang Fire Station,Permanent,139 Beaudesert-Nerang Rd Nerang 4211,07 5558 1818,07 5558 1819,enquiry@nerang.qfes.gov.au,-27.99304401,153.3251715
+6,40,Robina Fire Station,Permanent,54 Investigator Dr Robina 4226,07 5583 1991,07 5583 1990,enquiry@robina.qfes.gov.au,-28.07564372,153.3775191
+6,41,Loganlea Fire Station,Permanent,739 Kingston Rd Waterford West 4131,07 3884 2550,07 3884 2559,enquiry@loganlea.qfes.gov.au,-27.68248468,153.1214609
+6,42,West Logan Fire Station,Permanent,2 Orr Crt Hillcrest 4118,07 3884 7660,07 3884 7669,enquiry@westlogan.qfes.gov.au,-27.67815994,153.030174
+6,43,Bundamba Fire Station,Permanent,61 Brisbane Rd Bundamba 4304,07 3280 1117,07 3280 1119,enquiry@bundamba.qfes.gov.au,-27.60744032,152.8144793
+6,44,Karana Downs Fire Station,Permanent,2 College Rd Karana Downs 4306,07 3026 4051,07 3026 4053,enquiry@karanadowns.qfes.gov.au,-27.55227013,152.8069198
+6,46,Camira Fire Station,Permanent,170 Old Logan Road And Alice Street Camira 4300,07 3437 3200,07 3288 4753,enquiry@camira.qfes.gov.au,-27.61999816,152.9156608
+6,48,Ripley Fire Station,Permanent,338-396 Ripley Rd Ripley 4306,07 3294 4999,07 3294 4995,enquiry@ripley.qfes.gov.au,-27.65929346,152.779816
+6,49,Brassall Fire Station,Permanent,Diamentina Boulevard Brassall 4305,07 3201 6360,07 3201 6364,enquiry@brassall.qfes.gov.au,-27.5851,152.7247
+6,59,Jimboomba Fire Station,Auxiliary,22-24 Johanna St Jimboomba 4285,07 3884 8200,,enquiry@jimboomba.qfes.gov.au,-27.82908431,153.0250499
+6,64,Mount Tamborine Fire Station,Auxiliary,126 Main Western Rd Tamborine Mountain 4272,07 5541 4576,,enquiry@mounttamborine.qfes.gov.au,-27.93639522,153.1804291
+6,65,Canungra Fire Station,Auxiliary,Finch Rd Canungra 4275,07 5541 4576,,enquiry@canungra.qfes.gov.au,-28.01722872,153.1658348
+6,66,Beaudesert Fire Station,Permanent/Auxiliary,39 Brisbane St Beaudesert 4285,07 5541 1933,07 5541 1365,enquiry@beaudesert.qfes.gov.au,-27.98996102,152.9965841
+6,67,Kooralbyn Fire Station,Auxiliary,Salisbury Kooralbyn 4285,07 5541 4576,,enquiry@kooralbyn.qfes.gov.au,-28.08572305,152.8420551
+6,68,Rathdowney Fire Station,Auxiliary,Running Creek Rd Rathdowney 4287,07 5541 4576,,enquiry@rathdowney.qfes.gov.au,-28.21080313,152.8652336
+6,69,Boonah Fire Station,Auxiliary,6 Farley St Boonah 4310,07 5541 4576,,enquiry@boonah.qfes.gov.au,-27.99640322,152.6811617
+6,70,Kalbar Fire Station,Auxiliary,66 George St Kalbar 4309,07 5541 4576,,enquiry@kalbar.qfes.gov.au,-27.94077016,152.6238328
+6,71,Harrisville Fire Station,Auxiliary,50 Queen St Harrisville 4307,07 5541 4576,,enquiry@harrisville.qfes.gov.au,-27.81100102,152.6681633
+6,72,Marburg Fire Station,Auxiliary,75 Edmond St Marburg 4346,07 5468 3301,,enquiry@marburg.qfes.gov.au,-27.56570545,152.5956852
+6,73,Rosewood Fire Station,Auxiliary,70 John St Rosewood 4340,07 5468 3301,,enquiry@rosewood.qfes.gov.au,-27.63782754,152.5912767
+6,74,Lowood Fire Station,Auxiliary,52 Main St Lowood 4311,07 5468 3301,,enquiry@lowood.qfes.gov.au,-27.46065612,152.5813801
+6,75,Laidley Fire Station,Auxiliary,56 William St Laidley 4341,07 5468 3301,,enquiry@laidley.qfes.gov.au,-27.63176221,152.3975483
+6,76,Forest Hill Fire Station,Auxiliary,4 William St Forest Hill 4342,07 5468 3301,,enquiry@foresthill.qfes.gov.au,-27.58876863,152.3563461
+6,77,Gatton Fire Station,Permanent/Auxilary,58 North St Gatton 4343,07 5468 3300,,enquiry@gatton.qfes.gov.au,-27.55769224,152.2786296
+6,78,Helidon Fire Station,Auxiliary,13 Railway St Helidon 4344,07 5468 3301,,enquiry@helidon.qfes.gov.au,-27.55068461,152.1232258
+6,79,Esk Fire Station,Auxiliary,12 Heap St Esk 4312,07 5468 3301,,enquiry@esk.qfes.gov.au,-27.24070394,152.4204097
+7,80,Toogoolawah Fire Station,Auxiliary,20 Cressbrook St Toogoolawah 4314,07 5468 3301,,enquiry@toogoolawah.qfes.gov.au,-27.08672664,152.3778664
+7,11,Toowoomba Fire Station,Permanent,11 Kitchener St Toowoomba 4350,07 4698 5830,074698 5837,enquiry@toowoomba.qfes.gov.au,-27.56438827,151.9598973
+7,12,Anzac Avenue Fire Station,Permanent/Auxiliary,201 Anzac Av Toowoomba 4350,07 4698 5000,07 4633 3436,enquiry@anzacavenue.qfes.gov.au,-27.57181009,151.9240748
+7,13,Pittsworth Fire Station,Auxiliary,5 Krinke St Pittsworth 4356,07 4616 1900,,enquiry@pittsworth.qfes.gov.au,-27.71414379,151.6272387
+7,14,Oakey Fire Station,Auxiliary,5 Desmond St Oakey 4401,07 4616 1900,,enquiry@oakey.qfes.gov.au,-27.43348112,151.7222976
+7,15,Goombungee Fire Station,Auxiliary,4 Anvil Court Goombungee 4354,07 4616 1900,,enquiry@goombungee.qfes.gov.au,-27.31502554,151.8487233
+7,16,Crows Nest Fire Station,Auxiliary,28 Creek St Crows Nest 4355,07 4616 1900,,enquiry@crowsnest.qfes.gov.au,-27.26239546,152.056564
+7,17,Highfields Fire Station,Auxiliary,49 O'Brien Road Highfields 4352,07 4616 1900,,enquiry@highfields.qfes.gov.au,-27.45100951,151.9473409
+7,21,Warwick Fire Station,Permanent/Auxiliary,23 Canning St Warwick 4370,07 4667 5167,07 4667 5160,enquiry@warwick.qfes.gov.au,-28.21577058,152.0369984
+7,22,Clifton Fire Station,Auxiliary,King St Clifton 4361,07 4667 5166,,enquiry@clifton.qfes.gov.au,-27.92608216,151.9061752
+7,23,Allora Fire Station,Auxiliary,3 Muir St Allora 4362,07 4667 5166,,enquiry@allora.qfes.gov.au,-28.03477015,151.984646
+7,24,Killarney Fire Station,Auxiliary,29 Ivy St Killarney 4373,07 4667 5166,,enquiry@killarney.qfes.gov.au,-28.33291514,152.2970398
+7,25,Stanthorpe Fire Station,Auxiliary,54 Lock St Stanthorpe 4380,07 4667 5166,,enquiry@stanthorpe.qfes.gov.au,-28.65418338,151.9346513
+7,26,Wallangarra Fire Station,Auxiliary,53 Margetts St Wallangarra 4383,07 4667 5166,,enquiry@wallangarra.qfes.gov.au,-28.92035935,151.9308721
+7,27,Inglewood Fire Station,Auxiliary,32 Albert St Inglewood 4387,07 4667 5166,,enquiry@inglewood.qfes.gov.au,-28.41377859,151.0826182
+7,31,Cecil Plains Fire Station,Auxiliary,69 Taylor St Cecil Plains 4407,07 4596 9400,07 4662 0555,enquiry@cecilplains.qfes.gov.au,-27.53176159,151.1901852
+7,32,Dalby Fire Station,Auxiliary,21 New St Dalby 4405,07 4596 9400,,enquiry@dalby.qfes.gov.au,-27.17964326,151.2667424
+7,33,Tara Fire Station,Auxiliary,21 Fry St Tara 4421,07 4596 9400,,enquiry@tara.qfes.gov.au,-27.27825861,150.4598608
+7,34,Jandowae Fire Station,Auxiliary,55 High St Jandowae 4410,07 4596 9400,,enquiry@jandowae.qfes.gov.au,-26.78174784,151.1106218
+7,35,Chinchilla Fire Station,Auxiliary,20 Villiers St Chinchilla 4413,07 4596 9400,,enquiry@chinchilla.qfes.gov.au,-26.74329066,150.6288598
+7,36,Miles Fire Station,Auxiliary,46 Marian St Miles 4415,07 4596 9400,,enquiry@miles.qfes.gov.au,-26.65873857,150.1874205
+7,37,Meandarra Fire Station,Auxiliary,Lot 2 Olser St Meandarra 4422,07 4596 9400,,enquiry@meandarra.qfes.gov.au,-27.32315486,149.8806522
+7,41,Goondiwindi Fire Station,Auxiliary,170 Marshall St Goondiwindi 4390,07 4671 8112,,enquiry@goondiwindi.qfes.gov.au,-28.54746218,150.3125492
+7,42,Yelarbon Fire Station,Auxiliary,32 Taloom St Yelarbon 4388,07 4671 8112,,enquiry@yelarbon.qfes.gov.au,,
+7,43,Texas Fire Station,Auxiliary,16 St John St Texas 4385,07 4671 8112,,enquiry@texas.qfes.gov.au,-28.85254725,151.1675517
+7,44,Millmerran Fire Station,Auxiliary,2 Attleigh St Millmerran 4357,07 4671 8112,,enquiry@millmerran.qfes.gov.au,-27.87373503,151.2685377
+7,45,Dirranbandi Fire Station,Auxiliary,4 Cowildi St Dirranbandi 4486,07 4671 8112,,enquiry@dirranbandi.qfes.gov.au,-28.58263378,148.2233675
+7,46,St George Fire Station,Auxiliary,37-39 Henry St St George 4487,07 4671 8112,,enquiry@stgeorge.qfes.gov.au,-28.03692277,148.5826095
+7,47,Bollon Fire Station,Auxiliary,56-58 Main St Bollon 4488,07 4671 8112,,enquiry@bollon.qfes.gov.au,-28.03171392,147.4765607
+7,51,Roma Fire Station,Permanent/Auxiliary,41 Mcdowall St Roma 4455,07 4578 0005,,enquiry@roma.qfes.gov.au,-26.57180256,148.7925683
+7,52,Injune Fire Station,Auxiliary,58 Ronald St Injune 4454,07 4578 0005,,enquiry@injune.qfes.gov.au,-25.84537641,148.5629661
+7,53,Surat Fire Station,Auxiliary,45 Cordelia St Surat 4417,07 4578 0005,,enquiry@surat.qfes.gov.au,-27.15657365,149.0675795
+7,55,Wandoan Fire Station,Auxiliary,51 North St Wandoan 4419,07 4578 0005,,enquiry@wandoan.qfes.gov.au,-26.11821204,149.9609315
+7,56,Taroom Fire Station,Auxiliary,12 Kinnoul St Taroom 4420,07 4578 0005,,enquiry@taroom.qfes.gov.au,-25.63998879,149.7962965
+7,61,Charleville Fire Station,Auxiliary,96 Galatea St Charleville 4470,07 4656 5802,,enquiry@charleville.qfes.gov.au,-26.40199266,146.2415862
+7,62,Quilpie Fire Station,Auxiliary,61 Pegler St Quilpie 4480,07 4656 5802,,enquiry@quilpie.qfes.gov.au,-26.61940688,144.2670899
+7,63,Augathella Fire Station,Auxiliary,65 Cavanagh St Augathella 4477,07 4656 5802,,enquiry@augathella.qfes.gov.au,-25.79595441,146.5856871
+7,64,Mitchell Fire Station,Auxiliary,66 Mary St Mitchell 4465,07 4656 5802,,enquiry@mitchell.qfes.gov.au,-26.48617891,147.9775117

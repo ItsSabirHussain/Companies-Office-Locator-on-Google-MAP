@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services>
+  <service>
+    <ServiceID>1</ServiceID>
+    <ServiceName>eVoting Booth</ServiceName>
+  </service>
+  <service>
+    <ServiceID>2</ServiceID>
+    <ServiceName>Justice of the Peace</ServiceName>
+  </service>
+  <service>
+    <ServiceID>3</ServiceID>
+    <ServiceName>Library</ServiceName>
+  </service>
+  <service>
+    <ServiceID>4</ServiceID>
+    <ServiceName>Customer Service</ServiceName>
+  </service>
+  <service>
+    <ServiceID>5</ServiceID>
+    <ServiceName>Migrant Service</ServiceName>
+  </service>
+</services>
